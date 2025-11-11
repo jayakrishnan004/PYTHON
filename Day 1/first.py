@@ -1,5 +1,5 @@
-#this is a challenge month
-#learn python
+#taking a challenge this month 
+#python
 
 print("hello pycharm")
 print("i am going to start python")
